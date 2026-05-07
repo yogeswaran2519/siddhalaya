@@ -116,10 +116,6 @@
       min-height: 600px;
       display: flex;
       align-items: stretch;
-      /*
-        Replace YOUR_BACKGROUND_IMAGE.jpg with your actual image path.
-        e.g. background-image: url('images/hero-bg.jpg');
-      */
       background-image: url('banner-bg.jpg');
       background-size: cover;
       background-position: center;
