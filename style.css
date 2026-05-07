@@ -120,7 +120,7 @@
         Replace YOUR_BACKGROUND_IMAGE.jpg with your actual image path.
         e.g. background-image: url('images/hero-bg.jpg');
       */
-      background-image: url('../assets/banner-bg.jpg');
+      background-image: url('banner-bg.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -405,7 +405,7 @@
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  background-image: url('../assets/banner-bg.jpg');
+  background-image: url('banner-bg.jpg');
   background-size: cover;
   background-position: center;
    display: flex;
