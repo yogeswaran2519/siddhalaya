@@ -1319,11 +1319,11 @@
  
     .cell-address {
       grid-column: 1; grid-row: 1;
-      background: #0F6E56;
+      background: #EEDEC5;
     }
     .cell-contact {
       grid-column: 2; grid-row: 1;
-      background: #0F6E56;
+      background: #EEDEC5;
       color: #fff;
       display: flex;
       flex-direction: column;
@@ -1333,7 +1333,7 @@
     .cell-map {
       grid-column: 3; grid-row: 1 / 3;
       padding: 0;
-      background: #0F6E56;
+      background: #EEDEC5;
       display: flex;
       flex-direction: column;
     }
